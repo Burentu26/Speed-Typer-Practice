@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', function () {
     'remember',
     'butterfly',
     'early',
-    'Summer',
+    'summer',
     'Its',
     'playing',
     'on',
