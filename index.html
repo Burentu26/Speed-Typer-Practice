@@ -1,27 +1,20 @@
-.container {
-  text-align: center;
-  margin-top: 100px;
-}
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Speed Typer App</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Speed Typer</h1>
+    <p>Type the following text:</p>
+    <p id="quote">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    <textarea id="input" rows="5" autofocus></textarea>
+    <p id="feedback"></p>
+    <button id="startButton">Start</button>
+    <p id="timer">0s</p>
+  </div>
 
-textarea {
-  width: 300px;
-  height: 100px;
-  padding: 10px;
-  font-size: 16px;
-}
-
-button {
-  margin-top: 20px;
-  padding: 10px 20px;
-  font-size: 16px;
-}
-
-#feedback {
-  margin-top: 20px;
-  font-weight: bold;
-}
-
-#timer {
-  margin-top: 20px;
-  font-size: 24px;
-}
+  <script src="script.js"></script>
+</body>
+</html>
