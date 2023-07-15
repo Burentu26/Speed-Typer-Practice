@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   function generateParagraph() {
     var paragraph = '';
-    for (var i = 0; i < 10; i++) { // Change the number to determine the paragraph length
+    for (var i = 0; i < 30; i++) { // Change the number to determine the paragraph length
       var randomIndex = Math.floor(Math.random() * wordList.length);
       var word = wordList[randomIndex];
       paragraph += word + ' ';
