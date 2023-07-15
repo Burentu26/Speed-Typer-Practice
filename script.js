@@ -42,6 +42,17 @@ document.addEventListener('DOMContentLoaded', function () {
     'playing',
     'on',
     'repeat',
+    'Just',
+    'like',
+    'when',
+    'we',
+    'would',
+    'meet',
+    'Like',
+    'when',
+    'we',
+    'would',
+    'meet',
 
   ];
 
