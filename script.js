@@ -5,8 +5,7 @@ document.addEventListener('DOMContentLoaded', function () {
   var startButton = document.getElementById('startButton');
   var timer = document.getElementById('timer');
 
-  var wordList = [
-    'Lorem',
+  var wordList = [,
     'ipsum',
     'dolor',
     'sit',
