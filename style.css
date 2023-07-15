@@ -1,0 +1,26 @@
+.container {
+  text-align: center;
+  margin-top: 100px;
+}
+
+input {
+  width: 300px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+#feedback {
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+#timer {
+  margin-top: 20px;
+  font-size: 24px;
+}
